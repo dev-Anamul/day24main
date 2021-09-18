@@ -24,7 +24,7 @@ main header section css start
     background: #dfdfdf;
 }
 .logo-header img{
-    width: 115px;
+    width: 90px;
 }
 ul.header-primary-menu li{
     padding: 0 22px;
@@ -462,7 +462,7 @@ animated section css start
     }
 }
 .sticky-top{
-    padding: 20px 0 !important;
+    padding: 13px 0 !important;
 }
 /* ==================================
 animated section css start
